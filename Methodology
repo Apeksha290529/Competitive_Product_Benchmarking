@@ -1,0 +1,57 @@
+# Methodology
+
+## Project Workflow
+
+The project follows an end-to-end competitive product benchmarking workflow.
+
+### Step 1 — Dataset Collection
+A structured dataset was prepared containing product features, competitor information, pricing and performance-related metrics.
+
+### Step 2 — Data Cleaning
+The dataset was cleaned by standardizing product names, competitor names, feature categories and availability values.
+
+### Step 3 — Feature Categorization
+Features were grouped into categories such as Project Management, Collaboration, Analytics, Automation, AI, Integrations, Security, Mobile, Customization and Customer Support.
+
+### Step 4 — Feature Scoring
+Feature availability was converted into a weighted score.
+
+- Yes = 100%
+- Partial = 50%
+- No = 0%
+
+### Step 5 — KPI Analysis
+Key KPIs were calculated to understand overall competitive performance, feature coverage, customer rating, market share and pricing position.
+
+### Step 6 — Competitive Benchmarking
+FlowSync was compared against Asana, Monday.com, ClickUp and Notion.
+
+### Step 7 — Gap Analysis
+Competitive gaps were identified using competitor score versus FlowSync score.
+
+### Step 8 — Opportunity Prioritization
+Opportunities were prioritized using feature gap, customer demand and feature importance.
+
+### Step 9 — Scenario Analysis
+Different business scenarios were evaluated to understand possible strategic outcomes.
+
+### Step 10 — Product Roadmap
+The highest-priority opportunities were converted into a NOW / NEXT / LATER roadmap.
+
+## Scoring Formula
+
+Feature Gap:
+
+MAX(0, Competitor Score - FlowSync Score)
+
+Opportunity Score:
+
+Feature Gap × Customer Demand × Feature Importance
+
+## Tools Used
+
+- Microsoft Excel
+- Power Query
+- Power BI
+- GitHub
+- PowerPoint
