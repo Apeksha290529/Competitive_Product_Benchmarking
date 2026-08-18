@@ -99,7 +99,7 @@ Low = < 20
 The Power BI dashboard is structured into:
 
 ### 1. Executive Dashboard
-
+![Competitive_Product_Benchmarking](executive_summary_dashboard.png)
 - Overall Benchmark Score
 - Feature Coverage
 - Market Share
@@ -108,7 +108,7 @@ The Power BI dashboard is structured into:
 - Pricing Comparison
 
 ### 2. Gap Analysis Dashboard
-
+gap_analysis_dashboard.png
 - Competitive Feature Gaps
 - Gap Type
 - Priority
@@ -116,7 +116,7 @@ The Power BI dashboard is structured into:
 - Integration Gaps
 
 ### 3. Opportunity Analysis
-
+opportunity_dashboard .png
 - Opportunity Score
 - Business Value
 - Customer Demand
@@ -124,7 +124,7 @@ The Power BI dashboard is structured into:
 - Priority
 
 ### 4. Product Roadmap
-
+product_roadmap_dashboard.png
 NOW / NEXT / LATER recommendations.
 
 ## 🔍 Key Findings
