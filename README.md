@@ -3,7 +3,7 @@
 ## 📊 Overview
 
 A non-coding Excel + Power BI portfolio project designed to benchmark a productivity SaaS product against competitors, identify competitive gaps and prioritize product improvement opportunities.
-
+![AI Product Feature Prioritization](pexels-shotkit-3551620-5387714.jpg)
 ## 🎯 Objective
 
 The objective is to create a structured competitive benchmarking framework that helps product teams:
@@ -99,7 +99,7 @@ Low = < 20
 The Power BI dashboard is structured into:
 
 ### 1. Executive Dashboard
-![Competitive_Product_Benchmarking](executive_summary_dashboard.png)
+![AI Product Feature Prioritization](executive_summary_dashboard.png)
 - Overall Benchmark Score
 - Feature Coverage
 - Market Share
@@ -108,7 +108,7 @@ The Power BI dashboard is structured into:
 - Pricing Comparison
 
 ### 2. Gap Analysis Dashboard
-gap_analysis_dashboard.png
+![AI Product Feature Prioritization](gap_analysis_dashboard.png)
 - Competitive Feature Gaps
 - Gap Type
 - Priority
@@ -116,7 +116,7 @@ gap_analysis_dashboard.png
 - Integration Gaps
 
 ### 3. Opportunity Analysis
-opportunity_dashboard .png
+![AI Product Feature Prioritization](opportunity_dashboard.png)
 - Opportunity Score
 - Business Value
 - Customer Demand
@@ -124,7 +124,7 @@ opportunity_dashboard .png
 - Priority
 
 ### 4. Product Roadmap
-product_roadmap_dashboard.png
+![AI Product Feature Prioritization](product_roadmap_dashboard.png)
 NOW / NEXT / LATER recommendations.
 
 ## 🔍 Key Findings
